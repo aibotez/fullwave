@@ -1,0 +1,126 @@
+﻿  omode.cpp
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(65,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(91,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(104,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(118,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(119,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(133,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(134,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(135,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(136,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(221,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(236,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(237,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(248,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(249,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(272,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(300,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(330,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(355,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(356,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(371,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(372,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(395,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(395,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(396,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(396,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(416,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(416,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(417,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(417,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(437,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(437,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(438,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(438,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(454,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(454,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(486,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(486,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(487,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(487,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(509,11): warning C4101: “yls”: 未引用的局部变量
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(535,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(535,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(536,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(536,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(591,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(591,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(614,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(614,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(623,15): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(624,15): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(670,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(670,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(671,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(671,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(761,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(761,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(779,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(779,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(814,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(814,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(815,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(815,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(816,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(816,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(817,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(817,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(29,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(31,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(60,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(61,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(74,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(74,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(93,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(93,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(94,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\gasswave\C++\link_matlab\opmat.h(94,1): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(64,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(65,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(83,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(83,43): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(84,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(84,49): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(208,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(208,43): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(209,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(209,43): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(229,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(229,40): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(230,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(230,40): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(320,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(320,40): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(338,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(338,40): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(454,64): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(454,64): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(511,24): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(594,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(615,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(623,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(697,25): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(416,9): warning C4101: “dR”: 未引用的局部变量
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(417,9): warning C4101: “dZ”: 未引用的局部变量
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(537,9): warning C4101: “ls”: 未引用的局部变量
+D:\文件\fullwave\gasswave\C++\MathToolsZz\MathToolsZz.h(325,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\Omode_Turbuence_test1\omode.cpp(425): message : 查看对正在编译的函数 模板 实例化“int MathToolsZz::length<double*>(T)”的引用
+          with
+          [
+              T=double *
+          ]
+  正在生成代码
+  6 of 117 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Omode_Turbuence_test1.vcxproj -> D:\文件\fullwave\O-mode\C++\Omode_Turbuence_test1\x64\Release\Omode_Turbuence_test1.exe
